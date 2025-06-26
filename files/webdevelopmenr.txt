@@ -1,0 +1,5 @@
+Mern stands for :
+M-Mogo
+E-express
+r-react
+n-node
